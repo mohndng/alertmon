@@ -1,5 +1,5 @@
 # alertmon
-Simple Text Pop Up using Alert Function and Experimental CSS Fading Text
+Simple Text Pop Up using Alertbox and Experimental CSS Fading Text
 
 ### Sample
 <p align="center">
