@@ -1,7 +1,7 @@
-# alertmon
+# Alertmon
 JS Alertbox and Experimental CSS Fading Text
 
-### Sample
+## Demo
 <p align="center">
 <a href="https://what-if.pages.dev">
 Click Me!
